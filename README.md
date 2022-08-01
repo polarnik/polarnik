@@ -2,9 +2,9 @@
 
 Publications:
 
-| Date  | Event  | Lang  | Title | Slides | Code | Video |
-|-------|--------|:-----:|-------|--------|------|-------|
-| 2022.06.28  | [TestDriven conf 2022](https://tdconf.ru/2022)  | RU  | Как ускорить запросы к InfluxDB с помощью InfluxQL Continuous Queries и разделения данных | [influxdb-bench](https://polarnik.github.io/influxdb-bench/) | [influxdb-bench](https://github.com/polarnik/influxdb-bench) | [youtube](https://youtu.be/-v5Zgoy8wj8) |
+| Event  | Title/Slides | Code | Video |
+|--------|--------------|------|-------|
+| [TestDriven conf 2022](https://tdconf.ru/2022)  | [Как ускорить запросы к InfluxDB с помощью InfluxQL Continuous Queries и разделения данных](https://polarnik.github.io/influxdb-bench/) | [influxdb-bench](https://github.com/polarnik/influxdb-bench) | [youtube](https://youtu.be/-v5Zgoy8wj8) |
 
 
 <!--
