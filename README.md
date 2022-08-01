@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Publications:
+
+| Date  | Event  | Lang  | Title | Slides | Code | Video |
+|-------|--------|:-----:|-------|--------|------|-------|
+| 2022.06.28  | [TestDriven conf 2022](https://tdconf.ru/2022)  | RU  | Как ускорить запросы к InfluxDB с помощью InfluxQL Continuous Queries и разделения данных | [influxdb-bench](https://polarnik.github.io/influxdb-bench/) | [influxdb-bench](https://github.com/polarnik/influxdb-bench) | [youtube](https://youtu.be/-v5Zgoy8wj8) |
+
+
 <!--
 **polarnik/polarnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
