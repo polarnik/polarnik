@@ -4,8 +4,8 @@ Publications:
 
 | Event  | Title/Slides | Code | Video |
 |--------|--------------|------|-------|
-| [TestDriven conf 2022](https://tdconf.ru/2022)  | [Как ускорить запросы к InfluxDB с помощью InfluxQL Continuous Queries и разделения данных](https://polarnik.github.io/influxdb-bench/) | [influxdb-bench](https://github.com/polarnik/influxdb-bench)  - web/html/svg | [youtube](https://youtu.be/-v5Zgoy8wj8) |
-| [CodeFest 12](https://12.codefest.ru/) | [WebSocket и тесты производительности](https://12.codefest.ru/lecture/2000) | [WebSocket and performance tests](https://miro.com/app/board/uXjVOOEJBCQ=/?share_link_id=439556949520) - miro | TODO |
+| [TestDriven conf 2022](https://tdconf.ru/2022)  | [Как ускорить запросы к InfluxDB с помощью InfluxQL Continuous Queries и разделения данных](https://polarnik.github.io/influxdb-bench/) - web/html/svg | [influxdb-bench](https://github.com/polarnik/influxdb-bench)   | [youtube](https://youtu.be/-v5Zgoy8wj8) |
+| [CodeFest 12](https://12.codefest.ru/lecture/2000) | [WebSocket и тесты производительности](https://miro.com/app/board/uXjVOOEJBCQ=/?share_link_id=439556949520) - miro | [WebSocket and performance tests]() | TODO |
 
 
 <!--
