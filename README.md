@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Connect with me: [<img  alt="Viacheslav Smirnov | LinkedIn" height="10px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
+### Connect with me: [<img  alt="Viacheslav Smirnov | LinkedIn" height="20px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" /> linkedin][linkedin]
 
 ### Statistics:
 
