@@ -29,6 +29,5 @@ Here are some ideas to get you started:
 ### Statistics:
 
 <img  alt="polarnik's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=polarnik" />
-<img  alt="polarnik's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polarnik&layout=donut" />
 
 [linkedin]: https://www.linkedin.com/in/vyacheslav-smirnov/
