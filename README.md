@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-Publications:
+### Publications:
 
 | Event  | Title/Slides | Code | Video |
 |--------|--------------|------|-------|
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ### Connect with me:
 [<img align="left" alt="Pinchuk Vitaly| LinkedIn" height="80px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" />][linkedin]
 
-#### Statistics:
+### Statistics:
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=polarnik" />
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polarnik&layout=donut" />
 
